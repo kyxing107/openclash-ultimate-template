@@ -1,0 +1,9 @@
+# Fallback - custom supplementary domains
+# Format: RULE-TYPE,domain (same as upstream lists)
+# Route is decided by the same-named proxy group in template.ini (default: all-auto)
+DOMAIN-SUFFIX,pinglian.lol
+DOMAIN-SUFFIX,dian115.com
+DOMAIN-SUFFIX,yang-1989.xyz
+DOMAIN-SUFFIX,locmodel.com
+DOMAIN-SUFFIX,freedidi.com
+DOMAIN-SUFFIX,qsxy.top

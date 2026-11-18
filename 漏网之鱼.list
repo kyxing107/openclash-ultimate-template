@@ -1,0 +1,9 @@
+# 漏网之鱼 — 自定义补充域名（来自 新建文本文档.txt）
+# 格式与上游 list 一致：规则类型,域名
+# 实际走向由订阅模板中同名策略组「🐟 漏网之鱼」决定（默认 所有-自动）
+DOMAIN-SUFFIX,pinglian.lol
+DOMAIN-SUFFIX,dian115.com
+DOMAIN-SUFFIX,yang-1989.xyz
+DOMAIN-SUFFIX,locmodel.com
+DOMAIN-SUFFIX,freedidi.com
+DOMAIN-SUFFIX,qsxy.top

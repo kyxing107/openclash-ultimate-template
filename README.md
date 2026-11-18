@@ -6,9 +6,11 @@
 
 ## 文件
 
-- `up主openclash终极订阅模板.ini` — 订阅模板本体，交给 subconverter 转换后导入 OpenClash
-- `漏网之鱼.list` — 补充域名，默认走「所有-自动」
-- `虚拟货币.list` — 补充域名，默认走「DIRECT」
+- `template.ini` — 订阅模板本体，交给 subconverter 转换后导入 OpenClash
+- `fallback.list` — 补充域名，默认走「所有-自动」
+- `crypto.list` — 补充域名，默认走「DIRECT」
+
+> 文件名均为 ASCII，避免 subconverter / OpenClash 处理含中文的 raw 链接时出现乱码。
 
 ## 用法
 

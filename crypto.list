@@ -1,0 +1,6 @@
+# Crypto - custom supplementary domains
+# Format: RULE-TYPE,domain or keyword (same as upstream lists)
+# Route is decided by the same-named proxy group in template.ini (default: DIRECT)
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-KEYWORD,okx

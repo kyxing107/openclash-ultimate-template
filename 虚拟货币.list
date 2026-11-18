@@ -1,6 +1,0 @@
-# 虚拟货币 — 自定义补充域名（来自 新建文本文档.txt）
-# 格式与上游 list 一致：规则类型,域名或关键字
-# 实际走向由订阅模板中同名策略组「👌 虚拟货币」决定（默认 DIRECT）
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-KEYWORD,okx
